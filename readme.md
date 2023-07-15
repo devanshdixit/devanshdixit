@@ -5,8 +5,7 @@
 ### About
    **Education :** Bachelor of Computer Engineering
    **Tech Stacks :** MongoDB, NodeJS, ReactJS, Express, NextJS  |  Flutter
--  **Learning :** Data Science | Data Structures and ALgorithms
--  **Languages :** Java, C, JavaScript, Dart
+-  **Languages :** JavaScript, Dart, HTML, CSS
 -  **Fact :** First solve the problem, then write the code
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
