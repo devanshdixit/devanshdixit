@@ -2,11 +2,23 @@
 <img src="https://komarev.com/ghpvc/?username=devanshdixit&label=Profile%20views&color=0e75b6&style=flat" alt="devanshdixit" /> [![Twitter Badge](https://img.shields.io/badge/-Devanshu_Dixit-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/devanshdixit13)](https://twitter.com/devanshdixit13)  [![Linkedin Badge](https://img.shields.io/badge/-Devanshu_Dixit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devanshudixit01/)](https://www.linkedin.com/in/devanshudixit01/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
-   **Education :** Bachelor of Computer Engineering
-   **Tech Stacks :** MongoDB, NodeJS, ReactJS, Express, NextJS  |  Flutter
--  **Languages :** JavaScript, Dart, HTML, CSS
--  **Fact :** First solve the problem, then write the code
+### 💼 About Me
+- 🎓 **Education:** Bachelor of Computer Engineering
+- 💻 **Tech Stacks:** MongoDB, Node.js, Express.js, React, Next.js, Flutter, Django
+- 🌐 **Languages:** JavaScript, Dart, HTML, CSS, Python
+- 💡 **Philosophy:** First solve the problem, then write the code
+- 📊 **Interests:** Fintech, Explainable AI, Fraud Detection, Data Science
+
+---
+
+### 🚀 Featured Project: BankIQ 🏦
+
+A complete end-to-end data science project to simulate bank customer data, perform analysis, predict high-risk loan defaults, and explain predictions using SHAP.  
+📊 Includes an interactive Streamlit dashboard for explainability.
+
+🔗 [View GitHub Repo »](https://github.com/devanshdixit/BankIQ)
+
+---
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
